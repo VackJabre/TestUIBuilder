@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>now.clip.*</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-07-23 16:41:10</sys_created_on>
+        <sys_id>c6521dab837222107f44666e69da1eb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.clip.*</sys_name>
+        <sys_package display_value="Test UI Builder" source="x_snc_test_ui_buil">a4d159e7837222107f44666e69da1e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test UI Builder">a4d159e7837222107f44666e69da1e25</sys_scope>
+        <sys_update_name>sys_security_acl_c6521dab837222107f44666e69da1eb1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-07-23 16:41:10</sys_updated_on>
+        <type display_value="ux_route">b9eb8a1b873303002941b53046cb1234</type>
+    </sys_security_acl>
+</record_update>

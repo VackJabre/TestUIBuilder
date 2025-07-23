@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Clip</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 16:41:01</sys_created_on>
+        <sys_id>80521d6b837222107f44666e69da1ee7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Clip</sys_name>
+        <sys_package display_value="Test UI Builder" source="x_snc_test_ui_buil">a4d159e7837222107f44666e69da1e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test UI Builder">a4d159e7837222107f44666e69da1e25</sys_scope>
+        <sys_update_name>sys_ux_app_config_80521d6b837222107f44666e69da1ee7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 16:41:01</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=80521d6b837222107f44666e69da1ee7"/>
+</record_update>
